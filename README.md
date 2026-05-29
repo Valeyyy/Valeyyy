@@ -33,7 +33,9 @@ Saya memiliki ketertarikan di bidang Web Development dan percaya bahwa teknologi
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-## 📂 Featured Repositories
+## 📂 Featured Project
+1. Pembuatan Aplikasi Pencatatan Pelanggaran Poin Siswa SMK Advent Batam
+2. Perancangan Sistem Informasi Reservasi Pemesanan Makanan
 
 
 ## 📜 Certifications / 🏆 Achievement
